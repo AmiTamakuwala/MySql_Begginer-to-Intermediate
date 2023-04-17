@@ -1,6 +1,7 @@
 # MySql_Begginer-to-Intermediate
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.knowledgecity.com%2Fen%2Flibrary%2FCMP1201%2Fintermediate-mysql%2F&psig=AOvVaw1Ynoq0TFeqo4L0_Bsh02ED&ust=1681804236286000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNCv-pG3sP4CFQAAAAAdAAAAABAK
+![image](https://user-images.githubusercontent.com/92789707/232422386-b9219126-fda4-4a12-a2c6-2da3effb5ec2.png)
+
 
 * some qus along with the answer.
 * complete guide of Mysql begginer to intermediate query.
